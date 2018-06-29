@@ -4,4 +4,7 @@ Hello!
 123456
 
 This is a test!
+<<<<<<< c548ecb4639ba1872c37a766b62ea10cf54021f3
 New test!
+=======
+>>>>>>> newtest
